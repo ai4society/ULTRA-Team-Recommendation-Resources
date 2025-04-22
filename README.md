@@ -26,4 +26,4 @@ For more information on this repository, please view the papers below:
   Authors: Biplav Srivastava, Tarmo Koppel, Sai Teja Paladi, Siva Likitha Valluru, Rohit Sharma, Owen Bond
   Published in: IEEE International Conference on Data Mining Workshops (ICDMW), 2022
 
-Both the code and data in this repository were developed as part of the research. The data is still being actively used in ongoing work. If you have any questions, would like more details, or are interested in building on this work, please feel free to reach out.
+Both the code and data in this repository were developed as part of the research. The data is still being actively used in ongoing work. If you have any questions, would like more details, or are interested in building on this work, please feel free to reach out. More information about ongoing efforts can be found on our [website](https://ai4society.github.io/projects/group_rec/index.html). 
